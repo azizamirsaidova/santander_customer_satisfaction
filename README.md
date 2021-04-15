@@ -1,6 +1,7 @@
 # What makes customer happy? 
 # Santander Customer Satisfaction
-
+### Dataset: This project uses an anonymized dataset consisting of a large number of numerical values derived from the Kaggle Santander Customer Satisfaction competition. 
+### Task: Predict the probability of each customer being unsatisfied.
  This project consist of several parts:
  
 * Data Pre-processing
